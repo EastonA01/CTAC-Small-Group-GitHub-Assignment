@@ -6,3 +6,7 @@ git add (Addition Arguments go here)
 
 git push 
 - This command "pushes" the new commit to github
+
+git fetch
+
+- This command "fetches" current additions without really "pulling" the information 
