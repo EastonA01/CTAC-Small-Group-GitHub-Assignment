@@ -1,2 +1,5 @@
 git init
 - The command "git init" initializes the repository in the local directory.
+
+git add (Addition Arguments go here)
+- This command prepares tracked files for a commit using additional arguments to specify location and files.
