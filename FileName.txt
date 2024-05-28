@@ -3,3 +3,6 @@ git init
 
 git add (Addition Arguments go here)
 - This command prepares tracked files for a commit using additional arguments to specify location and files.
+
+git push 
+- This command "pushes" the new commit to github
