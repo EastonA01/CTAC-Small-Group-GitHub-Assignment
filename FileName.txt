@@ -1,0 +1,2 @@
+git init
+- The command "git init" initializes the repository in the local directory.
